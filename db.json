@@ -1,0 +1,277 @@
+{
+  "State Unassigned": {
+    "districtData": {
+      "Unassigned": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "statecode": "AN"
+  },
+  "Andaman and Nicobar Islands": {
+    "districtData": {
+      "Nicobars": {
+        "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+        "active": 0,
+        "confirmed": 0,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "North and Middle Andaman": {
+        "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+        "active": 0,
+        "confirmed": 1,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "South Andaman": {
+        "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+        "active": 19,
+        "confirmed": 51,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 32,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -5,
+        "confirmed": 7439,
+        "migratedother": 0,
+        "deceased": 128,
+        "recovered": 7316,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "statecode": "AP"
+  },
+  "Andhra Pradesh": {
+    "districtData": {
+      "Foreign Evacuees": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 434,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 434,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Anantapur": {
+        "notes": "",
+        "active": 627,
+        "confirmed": 154813,
+        "migratedother": 0,
+        "deceased": 1064,
+        "recovered": 153122,
+        "delta": {
+          "confirmed": 95,
+          "deceased": 2,
+          "recovered": 101
+        }
+      },
+      "Chittoor": {
+        "notes": "",
+        "active": 4889,
+        "confirmed": 223377,
+        "migratedother": 0,
+        "deceased": 1650,
+        "recovered": 216838,
+        "delta": {
+          "confirmed": 401,
+          "deceased": 4,
+          "recovered": 437
+        }
+      },
+      "East Godavari": {
+        "notes": "",
+        "active": 5086,
+        "confirmed": 268178,
+        "migratedother": 0,
+        "deceased": 1165,
+        "recovered": 261927,
+        "delta": {
+          "confirmed": 616,
+          "deceased": 4,
+          "recovered": 848
+        }
+      },
+      "Guntur": {
+        "notes": "",
+        "active": 2229,
+        "confirmed": 164186,
+        "migratedother": 0,
+        "deceased": 1111,
+        "recovered": 160846,
+        "delta": {
+          "confirmed": 242,
+          "deceased": 1,
+          "recovered": 264
+        }
+      },
+      "Krishna": {
+        "notes": "",
+        "active": 3063,
+        "confirmed": 103437,
+        "migratedother": 0,
+        "deceased": 1146,
+        "recovered": 99228,
+        "delta": {
+          "confirmed": 298,
+          "deceased": 5,
+          "recovered": 378
+        }
+      },
+      "Kurnool": {
+        "notes": "",
+        "active": 475,
+        "confirmed": 122400,
+        "migratedother": 0,
+        "deceased": 829,
+        "recovered": 121096,
+        "delta": {
+          "confirmed": 32,
+          "deceased": 0,
+          "recovered": 116
+        }
+      },
+      "Other State": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 2461,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 2461,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Prakasam": {
+        "notes": "",
+        "active": 4396,
+        "confirmed": 123804,
+        "migratedother": 0,
+        "deceased": 940,
+        "recovered": 118468,
+        "delta": {
+          "confirmed": 345,
+          "deceased": 6,
+          "recovered": 246
+        }
+      },
+      "S.P.S. Nellore": {
+        "notes": "",
+        "active": 2751,
+        "confirmed": 129140,
+        "migratedother": 0,
+        "deceased": 920,
+        "recovered": 125469,
+        "delta": {
+          "confirmed": 208,
+          "deceased": 1,
+          "recovered": 429
+        }
+      },
+      "Srikakulam": {
+        "notes": "",
+        "active": 1859,
+        "confirmed": 119259,
+        "migratedother": 0,
+        "deceased": 744,
+        "recovered": 116656,
+        "delta": {
+          "confirmed": 92,
+          "deceased": 1,
+          "recovered": 51
+        }
+      },
+      "Visakhapatnam": {
+        "notes": "",
+        "active": 1339,
+        "confirmed": 149633,
+        "migratedother": 0,
+        "deceased": 1062,
+        "recovered": 147232,
+        "delta": {
+          "confirmed": 120,
+          "deceased": 1,
+          "recovered": 158
+        }
+      },
+      "Vizianagaram": {
+        "notes": "",
+        "active": 536,
+        "confirmed": 80708,
+        "migratedother": 0,
+        "deceased": 663,
+        "recovered": 79509,
+        "delta": {
+          "confirmed": 50,
+          "deceased": 1,
+          "recovered": 57
+        }
+      },
+      "West Godavari": {
+        "notes": "",
+        "active": 3544,
+        "confirmed": 164703,
+        "migratedother": 0,
+        "deceased": 1037,
+        "recovered": 160122,
+        "delta": {
+          "confirmed": 363,
+          "deceased": 1,
+          "recovered": 205
+        }
+      },
+      "Y.S.R. Kadapa": {
+        "notes": "",
+        "active": 1056,
+        "confirmed": 107680,
+        "migratedother": 0,
+        "deceased": 615,
+        "recovered": 106009,
+        "delta": {
+          "confirmed": 120,
+          "deceased": 0,
+          "recovered": 171
+        }
+      }
+    },
+    "statecode": "AR"
+  }
+  }
