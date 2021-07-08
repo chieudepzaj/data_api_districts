@@ -1,6 +1,4 @@
 {
-   "provinces": [
-     {
   "Thành phố Hồ Chí Minh": {
       "districtData": {
       "Unassigned": {
@@ -18,9 +16,8 @@
       }
     },
     "statecode": "SG"
-  }
   },
-     {
+  
   "Bắc Giang": {
       "districtData": {
       "Unassigned": {
@@ -38,9 +35,9 @@
       }
     },
     "statecode": "BG"
-  }
+  
   },
-     {
+     
   "Bắc Ninh": {
       "districtData": {
       "Unassigned": {
@@ -58,9 +55,9 @@
       }
     },
     "statecode": "BN"
-  }
+  
   },
-     {
+     
   "Bình Dương": {
       "districtData": {
       "Unassigned": {
@@ -78,9 +75,9 @@
       }
     },
     "statecode": "BD"
-  }
+  
   },
-     {
+     
   "Hải Dương": {
       "districtData": {
       "Unassigned": {
@@ -98,9 +95,9 @@
       }
     },
     "statecode": "HD"
-  }
+  
   },
-     {
+     
   "Hà Nội": {
       "districtData": {
       "Unassigned": {
@@ -119,6 +116,6 @@
     },
     "statecode": "HN"
   }
-  }
+  
      ]
   }
