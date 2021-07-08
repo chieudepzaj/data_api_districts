@@ -2,31 +2,121 @@
    "provinces": [
      {
   "Thành phố Hồ Chí Minh": {
+      "districtData": {
+      "Unassigned": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
     "statecode": "SG"
   }
   },
      {
   "Bắc Giang": {
+      "districtData": {
+      "Unassigned": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
     "statecode": "BG"
   }
   },
      {
   "Bắc Ninh": {
+      "districtData": {
+      "Unassigned": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
     "statecode": "BN"
   }
   },
      {
   "Bình Dương": {
+      "districtData": {
+      "Unassigned": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
     "statecode": "BD"
   }
   },
      {
   "Hải Dương": {
+      "districtData": {
+      "Unassigned": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
     "statecode": "HD"
   }
   },
      {
   "Hà Nội": {
+      "districtData": {
+      "Unassigned": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "migratedother": 0,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
     "statecode": "HN"
   }
   }
