@@ -2,17 +2,7 @@
   "Thành phố Hồ Chí Minh": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+        
       }
     },
     "statecode": "SG"
@@ -20,17 +10,7 @@
   "Bắc Giang": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+        
       }
     },
     "statecode": "BG"
@@ -38,17 +18,7 @@
   "Bắc Ninh": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+
       }
     },
     "statecode": "BN"
@@ -56,17 +26,7 @@
   "Bình Dương": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+        
       }
     },
     "statecode": "BD"
@@ -74,17 +34,7 @@
   "Hải Dương": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+        
       }
     },
     "statecode": "HD"
@@ -92,17 +42,7 @@
   "Hà Nội": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+        
       }
     },
     "statecode": "HN"
@@ -110,17 +50,7 @@
   "Đà Nẵng": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+        
       }
     },
     "statecode": "ĐNa"
@@ -128,17 +58,7 @@
   "Đông Tháp": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+        
       }
     },
     "statecode": "ĐT"
@@ -146,17 +66,7 @@
   "Phú Yên": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+        
       }
     },
     "statecode": "PY"
@@ -164,17 +74,7 @@
   "Khánh Hòa": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+
       }
     },
     "statecode": "KH"
@@ -182,17 +82,6 @@
   "Long An": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
       }
     },
     "statecode": "LA"
@@ -218,17 +107,7 @@
   "Hưng Yên": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+  
       }
     },
     "statecode": "HY"
@@ -236,17 +115,7 @@
   "Tây Ninh": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+       
       }
     },
     "statecode": "TN"
@@ -254,17 +123,7 @@
   "Bà Rịa Vũng Tàu": {
     "districtData": {
       "Unassigned": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "migratedother": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
+      
       }
     },
     "statecode": "BV"
